@@ -1,0 +1,3 @@
+rootProject.name = 'StrongWakeup'
+
+include ':app'
